@@ -1,0 +1,6 @@
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\MySharedLibrary\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.dll
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\MySharedLibrary\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.pdb
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\MySharedLibrary\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.AssemblyReference.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\MySharedLibrary\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\MySharedLibrary\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.dll
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\MySharedLibrary\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.pdb
